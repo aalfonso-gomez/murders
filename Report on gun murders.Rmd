@@ -1,0 +1,16 @@
+---
+title: "Report on gun murders"
+author: "Alicia Alfonso"
+date: "3/24/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Naming the chunks, making them invisible
+```{r plot pressure, echo=FALSE} 
+plot(pressure)
+```
+
+
